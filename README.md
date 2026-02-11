@@ -34,7 +34,7 @@ A planilha foi construída com foco em organização, automação de cálculos e
 
 ---
 
-## 📂 Estrutura da Planilha
+## Estrutura da Planilha
 
 A planilha está organizada em abas para:
 
@@ -44,7 +44,7 @@ A planilha está organizada em abas para:
 
 ---
 
-## ▶️ Como Utilizar
+## Como Utilizar
 
 1. Baixe o arquivo da planilha
 2. Insira os dados dos investimentos (aporte e perfil de investimento, e quantos anos deseja investir)
